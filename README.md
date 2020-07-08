@@ -27,3 +27,4 @@ FROM matches)))
 GROUP BY team
 ORDER BY points DESC,
 goaldiff DESC
+
